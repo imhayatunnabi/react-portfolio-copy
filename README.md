@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is in live with heroku. feel free to follow the live feel : https://react-portfolio-copy.herokuapp.com/
 
 ## Available Scripts
 
